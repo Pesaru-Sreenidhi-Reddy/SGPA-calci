@@ -1,8 +1,7 @@
-# SGPA-calci
-SGPA calculator project takes letter grades as input and gives SGPA of output.Letter grades are according to JNTUH .
+This is a C++ program that calculates the semester grade point average (SGPA) of a student based on their grades and credits earned in each subject. The program consists of a class named "Subject" that has four  methods: read(), calculate(), and sum(), and a function named "display()".
 
+The read() method reads the grade and credits of each subject from the user. The calculate() method finds the corresponding grade point average (GPA) for each subject based on the grade entered. The sum() method calculates the total GPA and total credits earned by the student.
 
- read() method is for reading grade and credits of each subject.
- calculate() method is for finding gpa for each subject.
- sum() method is for finding total gpa and total credits.
- display()  method is for  method for finding and displaying sgpa.
+The main() function initializes an array of Subject objects named "S". It prompts the user to enter the number of subjects they have taken. It then calls the read(), calculate(), and sum() methods of each Subject object in the array to calculate the total GPA and total credits earned. Finally, it calls the display() function to find and display the SGPA.
+
+The display() function calculates the SGPA by dividing the total GPA by the total credits earned and displays it on the screen.
