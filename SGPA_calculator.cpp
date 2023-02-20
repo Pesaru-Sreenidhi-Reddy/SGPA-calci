@@ -77,8 +77,7 @@ int main()
   S[i].read();
   S[i].calculate();
   S[i].sum();
-  if(i==n-1)
-  cout<<"\nGrade points:"<<t_gpa<<"\n"<<"Credit points:"<<c_sum;
+ 
 }
 display();
   return 0;
