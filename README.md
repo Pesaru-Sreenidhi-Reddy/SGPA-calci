@@ -6,5 +6,5 @@ The main() function initializes an array of Subject objects named "S". It prompt
 
 The display() function calculates the SGPA by dividing the total GPA by the total credits earned and displays it on the screen.
 
-This program considers "O"(oh) grade for 90 to 100 marks in each subject.
+This program considers "O"(oh) grade for 90 to 100 marks in the subject.
 Similarly,A+ for 80 to 89 marks, A for 70 to 79 marks, B+ for 60 to 69 marks,B for 50 to 59 marks,C for 40 to 49 marks, F for 0 to 39 marks
