@@ -41,6 +41,7 @@ public:
      if (grade == str)
      {
       sub_gpa = 6*credits;
+}
  str ="C";
      if (grade == str)
      {
@@ -53,7 +54,7 @@ public:
      }
      }
 
-  }
+  
   void sum()
   {
     t_gpa += sub_gpa ;
