@@ -53,8 +53,6 @@ public:
       sub_gpa = 0;
      }
      }
-
-  
   void sum()
   {
     t_gpa += sub_gpa ;
