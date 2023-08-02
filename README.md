@@ -1,4 +1,4 @@
-SGPA calci is a C++ program that calculates the semester grade point average (SGPA) of a student based on their grades and credits earned in each subject.
+SGPA calci is a project that calculates the semester grade point average (SGPA) of a student based on their grades and credits earned in each subject using C++.
 
 The program consists of a class named "Subject" that has four  methods: read(), calculate(), and sum(), and a function named "display()".
 
